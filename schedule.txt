@@ -1,0 +1,8 @@
+day class name<link>begintime-endtime,classname<link>begintime-endtime
+monday calc lecture<https://fit.zoom.us/j/91054062966>10-10:50,chemistry lecture<https://fit.zoom.us/j/95008158109>12-12:50
+tuesday calc lab<https://fit.zoom.us/j/95013195305>11-11:50,digital logic lecture<https://fit.zoom.us/j/3358095585>15:30-16:45
+wednesday calc lecture<https://fit.zoom.us/j/91054062966>10-10:50,chemistry lecture<https://fit.zoom.us/j/95008158109>12-12:50
+thursday calc lab<https://fit.zoom.us/j/95013195305>11-11:50,digital logic lecture<https://fit.zoom.us/j/3358095585>15:30-16:45
+friday calc lecture<https://fit.zoom.us/j/91054062966>10-10:50,chemistry lecture<https://fit.zoom.us/j/95008158109>12-12:50
+saturday
+sunday
