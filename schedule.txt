@@ -1,8 +1,8 @@
 day class name<link>begintime-endtime,classname<link>begintime-endtime
-monday calc lecture<calc zoom linc>10-10:50,chemistry lecture<chem zoom link>12-12:50
-tuesday calc lab<calc lab zoom linc>11-11:50,digital logic lecture<digital logic zoom link>15:30-16:45
-wednesday calc lecture<calc zoom linc>10-10:50,chemistry lecture<chem zoom link>12-12:50
-thursday calc lab<calc lab zoom linc>11-11:50,digital logic lecture<digital logic zoom link>15:30-16:45
-friday calc lecture<calc zoom linc>10-10:50,chemistry lecture<chem zoom link>12-12:50
+monday calc lecture<calc zoom link>10-10:50,chemistry lecture<chem zoom link>12-12:50
+tuesday calc lab<calc lab zoom link>11-11:50,digital logic lecture<digital logic zoom link>15:30-16:45
+wednesday calc lecture<calc zoom link>10-10:50,chemistry lecture<chem zoom link>12-12:50
+thursday calc lab<calc lab zoom link>11-11:50,digital logic lecture<digital logic zoom link>15:30-16:45
+friday calc lecture<calc zoom link>10-10:50,chemistry lecture<chem zoom link>12-12:50
 saturday
 sunday
